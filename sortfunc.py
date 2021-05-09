@@ -1,4 +1,4 @@
-import gc
+import gc  # Imports Garbage Collection library
 
 
 def sort():
